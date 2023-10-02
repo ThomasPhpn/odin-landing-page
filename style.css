@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('fonts/Roboto-Light.ttf') format('truetype'); 
+  }
+
+  body {
+    background-color: #cf6969;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'RobotoLight', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
